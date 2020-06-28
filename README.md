@@ -31,7 +31,9 @@
 
 ## Contents
 
-[无法归类的日常](./Daily/0627.md)
+-   [无法归类的日常](https://github.com/Dasein-Yang/Babel-Library/tree/master/daily)
+    -   [2020 06 27 半年报](./daily/20200607半年报.md)
+    -   [2020 06 28 新知 | 区块链机制科普笔记](./daily/20200628BlockChain.md)
 
 ## About
 
