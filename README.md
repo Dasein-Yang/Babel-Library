@@ -28,6 +28,8 @@
     -   [2020 07 10 新知 | 物联网板块分析笔记（一）](./times/20200710InternetOfThing.md)
     -   [2020 06 28 新知 | 区块链机制科普笔记](./times/20200628BlockChain.md)
     -   [2019 11 17 思考 | 观念世界与真实世界的思考](./times/20191117ConceptsAndTrueWorld.md)
+-   [科研思路](./research)
+    -   [2020 07 29 新知｜ 图神经网络的研究图景概览](./research/20200729GNNTaxonomy.md)
 -   [巴别图书馆](./babel)
     -   [书评 | 意义的消解与重生 | 人生的意义 - 特里·伊格尔顿](./babel/20190423ReviewOfLifeMeaning.md)
     -   [诗 | 杀死西西弗](./babel/20190501Poem1.md)
