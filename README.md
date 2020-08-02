@@ -18,6 +18,7 @@
 ## Contents
 
 -   [无法归类的日常](https://github.com/Dasein-Yang/Babel-Library/tree/master/daily)
+    -   [2020 07 28 日常 ｜ 摇滚和旧城之王](./daily/20200728rock.md)
     -   [2020 07 02 工作 | 关于去年的项目工程经验](./daily/20200702EngineeringExperience.md)
     -   [2020 07 01 思考 | 存在通用选择模型吗](./daily/20200701Choices.md)
     -   [2020 06 30 理财 | 总结](./daily/202006Summary.md)
@@ -28,15 +29,18 @@
     -   [2020 07 10 新知 | 物联网板块分析笔记（一）](./times/20200710InternetOfThing.md)
     -   [2020 06 28 新知 | 区块链机制科普笔记](./times/20200628BlockChain.md)
     -   [2019 11 17 思考 | 观念世界与真实世界的思考](./times/20191117ConceptsAndTrueWorld.md)
+-   写作想法
+    -   [2019 11 17 科幻子世界｜瞬间世界](./novels/20191117memory.md)
 -   [科研思路](./research)
-    -   [2020 07 29 新知｜ 图神经网络的研究图景概览](./research/20200729GNNTaxonomy.md)
+    -   [2020 07 29 新知 ｜ 图神经网络的研究图景概览](./research/20200729GNNTaxonomy.md)
+    -   [2019 09 08 新知 ｜ 强化学习现有主流方法概述](./research/20190908ReinforcementLearning)
 -   [巴别图书馆](./babel)
     -   [书评 | 意义的消解与重生 | 人生的意义 - 特里·伊格尔顿](./babel/20190423ReviewOfLifeMeaning.md)
     -   [诗 | 杀死西西弗](./babel/20190501Poem1.md)
     -   [笔记 | 海外孤岛与日不落帝国 | BBC 英国史纪录片](./babel/20170806EnglishHistory.md)
     -   [笔记 | 成熟 INTJ 的自我修养 | 穷查理宝典 - 查理芒格](./babel/202004查理芒格.md)
     -   [书评 | Break Sisyphus Cycle | RichDadPoorDad](./babel/20200412BreakSisyphus.md)
-    -   [笔记 | 自我管理](./babel/20200606自我管理.md)
+    -   [笔记 | 自我管理 ｜ 自我管理 - 德鲁克](./babel/20200606自我管理.md)
     -   [影评 | 我所知道的少年班 | 少年班](./babel/201612我所知道的少年班.md)
     -   [笔记 | 向死而生的此在 | 存在与时间 - 海德格尔](./babel/201812存在与时间.md)
     -   [笔记 | 赖以生存的大问题 | 大问题 - 所罗门](./babel/201809大问题.md)
@@ -44,7 +48,7 @@
     -   [笔记 | 媒介与思考 | 娱乐至死 - 尼尔波兹曼](./babel/201811娱乐至死.md)
     -   [笔记 | 生存之美与毁灭之美 | 金阁寺 - 三岛由纪夫](./babel/201807金阁寺.md)
     -   [书评 | 车马邮件都慢 | 爱你就像爱生命 - 王小波](./babel/201701车马邮件都慢.md)
-    -   [书评 | 平生烟雨任风流](./babel/201706sushi.md)
+    -   [书评 | 平生烟雨任风流 ｜ 苏东坡传 - 林语堂](./babel/201706sushi.md)
     -   [笔记 | 生活正如潮水般退到不可预见的黄昏中去 | 惶然录 - 佩索阿](./babel/201809惶然录.md)
     -   [笔记 | 我定会孤独返回空无一人的山峦 | 海子诗集- 查海生](./babel/201806海子诗全集.md)
 
