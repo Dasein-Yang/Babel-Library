@@ -18,6 +18,8 @@
 ## Contents
 
 -   [无法归类的日常](https://github.com/Dasein-Yang/Babel-Library/tree/master/daily)
+    -   [2020 09 29 心理 ｜ 关于如何不焦虑的碎碎念](./daily/20200929.md)
+    -   [2020 08 17 日常 ｜My Yardlife](./daily/20200817Yardlife.md)
     -   [2020 07 28 日常 ｜ 摇滚和旧城之王](./daily/20200728Rock.md)
     -   [2020 07 02 工作 | 关于去年的项目工程经验](./daily/20200702EngineeringExperience.md)
     -   [2020 07 01 思考 | 存在通用选择模型吗](./daily/20200701Choices.md)
@@ -36,6 +38,7 @@
     -   [2020 07 29 新知 ｜ 图神经网络研究图景](./research/20200729GNN_Taxonomy.md)
     -   [2019 09 08 新知 ｜ 强化学习主流方法概述](./research/20190908ReinforcementLearning.md)
 -   [巴别图书馆](./babel)
+    -   [书评 ｜ 随便说说的近几年阅读体验](./babel/20201008 阅读体验.md)
     -   [书评 | 意义的消解与重生 | 人生的意义 - 特里·伊格尔顿](./babel/20190423ReviewOfLifeMeaning.md)
     -   [诗 | 杀死西西弗](./babel/20190501Poem1.md)
     -   [笔记 | 海外孤岛与日不落帝国 | BBC 英国史纪录片](./babel/20170806EnglishHistory.md)
